@@ -37,8 +37,3 @@ Work tools:
 </h6>
 </body>
 </html>
-siuuuuuuuua
-saljnaoncas
-sdgsdsdfsdf
-kjhpiuhñsg{sgrsgreg
-mnsdbfljhjljdsblkjkds

@@ -20,7 +20,7 @@ public class daoUsuario {
 			cx= new Conexion();	
 			
 		}
-		public ArrayList<usuarios> buscarUsuario(String dato){  //en un dia que me pique el qlo lo hago
+		public ArrayList<usuarios> buscarUsuario(String dato){  //busca lista de usuario
 			ArrayList<usuarios> lista= new ArrayList<usuarios>();
 			PreparedStatement ps = null;
 			ResultSet rs= null;
